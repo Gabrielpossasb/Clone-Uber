@@ -2,11 +2,9 @@
 
    # Clone Uber
    
-   <img height='140px' src='./public/favicon.ico' alt='logo'/>
-      
    #### Projeto clone da home da Uber. Com objetivo de praticar landingpages e estilizações ####
 
-   :link: <http://portfolio-gabrielpossasb.vercel.app/> :link:
+   :link: <http://clone-uber-rho.vercel.app//> :link:
 </div>
 
 ## :computer: Tecnlogias :
