@@ -8,7 +8,7 @@ function App() {
     <div className="flex flex-col items-start">
       <header className='bg-gray-900 w-full p-4 text-sm px-10 flex font-medium justify-between items-center'>
         <div className='flex items-center gap-4 only-of-type:p-2 only-of-type:hover:bg-gray-100/40 only-of-type:rounded-full'>
-          <div className='p-2 hover:bg-gray-100/20 hover:cursor-pointer duration-300 rounded-full'>Uber</div>
+          <div className='p-2 hover:bg-gray-100/20 hover:cursor-pointer duration-300 text-3xl rounded-full'>Uber</div>
           <div className='p-2 hover:bg-gray-100/20 hover:cursor-pointer duration-300 rounded-full flex items-center gap-2'>
             Empresa 
             <FiChevronDown size={22}/>
