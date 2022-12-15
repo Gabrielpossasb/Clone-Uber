@@ -207,11 +207,11 @@ function App() {
 
         <div className='flex items-center justify-between'>
           <div className='flex gap-12'>
-            <SiFacebook size={42} className='p-2 hover:bg-gray-200/30 rounded-full duration-300 hover:cursor-pointer'/>
-            <SiTwitter size={42} className='p-2 hover:bg-gray-200/30 rounded-full duration-300 hover:cursor-pointer'/>
-            <SiYoutube size={42} className='p-2 hover:bg-gray-200/30 rounded-full duration-300 hover:cursor-pointer'/>
-            <SiLinkedin size={42} className='p-2 hover:bg-gray-200/30 rounded-full duration-300 hover:cursor-pointer'/>
-            <SiInstagram size={42} className='p-2 hover:bg-gray-200/30 rounded-full duration-300 hover:cursor-pointer'/>
+            <SiFacebook size={42} className='p-2 hover:bg-gray-200/30 rounded-md duration-300 hover:cursor-pointer'/>
+            <SiTwitter size={42} className='p-2 hover:bg-gray-200/30 rounded-md duration-300 hover:cursor-pointer'/>
+            <SiYoutube size={42} className='p-2 hover:bg-gray-200/30 rounded-md duration-300 hover:cursor-pointer'/>
+            <SiLinkedin size={42} className='p-2 hover:bg-gray-200/30 rounded-md duration-300 hover:cursor-pointer'/>
+            <SiInstagram size={42} className='p-2 hover:bg-gray-200/30 rounded-md duration-300 hover:cursor-pointer'/>
           </div>
 
           <div className='gap-6 flex '>
